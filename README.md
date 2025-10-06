@@ -1,2 +1,2 @@
 # TicTacToe
-Gaming
+Gaming Application
